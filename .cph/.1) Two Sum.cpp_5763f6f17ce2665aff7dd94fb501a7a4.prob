@@ -1,0 +1,1 @@
+{"name":"Local: 1) Two Sum","url":"c:\\Users\\DEBRAJ\\OneDrive\\Desktop\\Blind 75\\1) Two Sum.cpp","tests":[{"id":1664209951906,"input":"5 -8\n-1 -2 -3 -4 -5","output":"2 4"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\DEBRAJ\\OneDrive\\Desktop\\Blind 75\\1) Two Sum.cpp","group":"local","local":true}
